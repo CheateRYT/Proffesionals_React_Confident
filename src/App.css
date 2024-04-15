@@ -1,0 +1,20 @@
+.App {
+  text-align: center;
+}
+h4 {
+  margin-bottom: 5px;
+}
+.docker-image-input {
+  margin-bottom: 20px;
+}
+.deploy-contract__btn {
+  padding: 20px;
+  margin-bottom: 10px;
+}
+h5 {
+  margin-bottom: 5px;
+}
+.registerUser__btn {
+  margin-top: 20px;
+  margin-bottom: 20px;
+}
